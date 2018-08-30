@@ -28,4 +28,3 @@ if [ ! -f "artisan" ]; then
     echo "Complete! Have a good day and dont forget to refresh your browser cache!"
     echo "Fonix"
 fi
- 
